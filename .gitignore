@@ -26,3 +26,5 @@ advent_of_code-*.tar
 /tmp/
 
 .lexical
+
+/priv/plts
