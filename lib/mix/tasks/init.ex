@@ -88,7 +88,7 @@ defmodule Mix.Tasks.AdventOfCode.Init do
         Advent of code for #{day}/12/#{year}
         \"""
 
-        def run(_input) do
+        def run(_path) do
         end
       end
       """
